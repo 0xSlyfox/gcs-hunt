@@ -3,7 +3,7 @@
 ## FOXHUNT GCS
 
 ##### Requirements
-- You must have adb access to the android device you are using this on
+- You must have adb access to the android device you are using this on... duh
 
 ##### How To Use
 **adbrecon**
